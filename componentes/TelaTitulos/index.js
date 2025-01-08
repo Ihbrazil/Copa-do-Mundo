@@ -57,7 +57,7 @@ export default function TelaTitulos() {
             <ItemTitulo
               cidade={pasadena}
               pais="EUA"
-              titulo={pentacampeao}
+              titulo={tetracampeao}
               ano="1994"
             />
 
@@ -65,7 +65,7 @@ export default function TelaTitulos() {
               cidade={yokohama}
               pais="Japão"
               titulo={pentacampeao}
-              ano="1994"
+              ano="2002"
             />
             
         </ImageBackground>
